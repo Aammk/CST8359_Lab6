@@ -1,1 +1,0 @@
-﻿https://jajolab6.azurewebsites.net
